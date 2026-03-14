@@ -1,4 +1,4 @@
-#  Root Cause
+#  AgriSentinal
 > *See Beyond the Surface. Heal the Root.*
 
 AI-powered crop health platform that detects disease, pests, and soil stress **before visible damage occurs** — using spectral imaging, IoT sensors, and deep learning.
